@@ -1,0 +1,2 @@
+# Java-Collections-Framework
+Project made for education. Shows understanding of the Collections in Java and the use of JavaFX. The assignment was to create an application that does various things with a large string, and elaborate our choices in the collection we chose. Another assignment was to show this in a JavaFX application using certain elements and the last assignment was to make an application that could compress a large string using the Huffman Tree.
